@@ -1,0 +1,10 @@
+Data bias:  occurs when the training data used to create an AI model is not representative of the real-world population or contains inherent biases. For example, if an AI model is trained using historical data that reflects gender or racial stereotypes, the model may perpetuate these biases when making decisions.
+
+Solution: use diverse and representative data to train the model. The training dataset should be carefully curated to ensure it is unbiased, and the model should be regularly audited to identify and mitigate any potential biases.
+
+Algorithmic bias:  arises when the model's design or algorithm itself is biased. This can occur when the AI model's designers inadvertently include their own biases, consciously or unconsciously, into the model. For example, an AI model designed to predict criminal recidivism rates may include variables such as race or ethnicity, leading to biased outcomes.
+
+Solution:  identify and mitigate any potential biases in the model's design and algorithm. This can be achieved through careful analysis of the model's output and inputs to identify any patterns or variables that may be contributing to bias. Additionally, transparency and accountability in the model's design can help reduce bias by allowing for external scrutiny and oversight. Finally, regular testing and auditing of the model can help identify and address any biases that may arise over time.
+
+
+
